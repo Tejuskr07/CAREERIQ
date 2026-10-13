@@ -1,0 +1,192 @@
+[
+  {
+    "id": "data-analyst",
+    "title": "Data Analyst",
+    "category": "Data & Analytics",
+    "description": "Transforms raw enterprise data into actionable insights, dashboards, and strategic business intelligence.",
+    "iconName": "BarChart3",
+    "onetCode": "15-2051.01",
+    "skills": [
+      {
+        "id": "sql",
+        "name": "SQL & Relational Databases",
+        "category": "Data Engineering",
+        "requiredLevel": 70,
+        "weight": 0.4
+      },
+      {
+        "id": "python",
+        "name": "Python for Data Analysis",
+        "category": "Programming",
+        "requiredLevel": 80,
+        "weight": 0.3
+      },
+      {
+        "id": "data-viz",
+        "name": "Data Visualization (Tableau/PowerBI)",
+        "category": "BI & Analytics",
+        "requiredLevel": 75,
+        "weight": 0.2
+      },
+      {
+        "id": "statistics",
+        "name": "Business Statistics & Hypothesis Testing",
+        "category": "Mathematics",
+        "requiredLevel": 80,
+        "weight": 0.1
+      }
+    ]
+  },
+  {
+    "id": "fullstack-engineer",
+    "title": "Full-Stack Software Engineer",
+    "category": "Software Engineering",
+    "description": "Architects, develops, and delivers end-to-end web applications with modern frontend frameworks and robust backend services.",
+    "iconName": "Code2",
+    "onetCode": "15-1252.00",
+    "skills": [
+      {
+        "id": "frontend-dev",
+        "name": "TypeScript & React/Next.js",
+        "category": "Frontend",
+        "requiredLevel": 85,
+        "weight": 0.35
+      },
+      {
+        "id": "backend-apis",
+        "name": "REST & GraphQL API Design (Node/Python)",
+        "category": "Backend",
+        "requiredLevel": 80,
+        "weight": 0.3
+      },
+      {
+        "id": "sql",
+        "name": "Database Modeling & PostgreSQL",
+        "category": "Databases",
+        "requiredLevel": 75,
+        "weight": 0.2
+      },
+      {
+        "id": "system-design",
+        "name": "System Architecture & Scalability",
+        "category": "Architecture",
+        "requiredLevel": 70,
+        "weight": 0.15
+      }
+    ]
+  },
+  {
+    "id": "ml-engineer",
+    "title": "Machine Learning Engineer",
+    "category": "AI & Machine Learning",
+    "description": "Designs, trains, evaluates, and deploys production machine learning and deep learning pipelines.",
+    "iconName": "Cpu",
+    "onetCode": "15-1299.08",
+    "skills": [
+      {
+        "id": "python",
+        "name": "Python & PyTorch/TensorFlow",
+        "category": "Deep Learning",
+        "requiredLevel": 90,
+        "weight": 0.4
+      },
+      {
+        "id": "ml-theory",
+        "name": "ML Algorithms & Math Foundations",
+        "category": "Mathematics",
+        "requiredLevel": 85,
+        "weight": 0.25
+      },
+      {
+        "id": "mlops",
+        "name": "Model Deployment & MLOps Pipelines",
+        "category": "Infrastructure",
+        "requiredLevel": 75,
+        "weight": 0.2
+      },
+      {
+        "id": "sql",
+        "name": "Data Warehousing & SQL",
+        "category": "Data Engineering",
+        "requiredLevel": 70,
+        "weight": 0.15
+      }
+    ]
+  },
+  {
+    "id": "devops-engineer",
+    "title": "Cloud DevOps Engineer",
+    "category": "Infrastructure & Cloud",
+    "description": "Automates CI/CD deployment pipelines, provisions infrastructure as code, and guarantees platform reliability and security.",
+    "iconName": "Cloud",
+    "onetCode": "15-1254.00",
+    "skills": [
+      {
+        "id": "docker-k8s",
+        "name": "Docker & Kubernetes Orchestration",
+        "category": "Containers",
+        "requiredLevel": 85,
+        "weight": 0.35
+      },
+      {
+        "id": "cloud-aws",
+        "name": "Cloud Platforms (AWS/GCP Architecture)",
+        "category": "Cloud",
+        "requiredLevel": 80,
+        "weight": 0.3
+      },
+      {
+        "id": "cicd",
+        "name": "CI/CD & GitOps Automation",
+        "category": "DevOps",
+        "requiredLevel": 75,
+        "weight": 0.2
+      },
+      {
+        "id": "linux-shell",
+        "name": "Linux Internals & Bash Scripting",
+        "category": "Systems",
+        "requiredLevel": 80,
+        "weight": 0.15
+      }
+    ]
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "category": "Security & Risk",
+    "description": "Monitors network traffic, evaluates vulnerabilities, and defends computing environments from cyber threats.",
+    "iconName": "ShieldAlert",
+    "onetCode": "15-1212.00",
+    "skills": [
+      {
+        "id": "network-sec",
+        "name": "Network Security & Protocols",
+        "category": "Networking",
+        "requiredLevel": 85,
+        "weight": 0.35
+      },
+      {
+        "id": "threat-analysis",
+        "name": "Vulnerability Assessment & Pen-testing",
+        "category": "Security",
+        "requiredLevel": 80,
+        "weight": 0.3
+      },
+      {
+        "id": "incident-response",
+        "name": "SIEM Tools & Incident Mitigation",
+        "category": "Operations",
+        "requiredLevel": 75,
+        "weight": 0.2
+      },
+      {
+        "id": "linux-shell",
+        "name": "Operating System Hardening",
+        "category": "Systems",
+        "requiredLevel": 70,
+        "weight": 0.15
+      }
+    ]
+  }
+]
